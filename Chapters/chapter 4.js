@@ -62,11 +62,11 @@ marvels.slice(1,3);*/
 // remove uber and add ola
 // add amazon at the end
 
-let arr=["Boomberg","Microsoft","Uber","Google","IBM","TCS","Netflix"];
+// let arr=["Boomberg","Microsoft","Uber","Google","IBM","TCS","Netflix"];
 
-arr.shift();
-console.log(arr);
-arr.splice(2,1,"Ola");
-console.log(arr);
-arr.push("Amazon");
-console.log(arr);
+// arr.shift();
+// console.log(arr);
+// arr.splice(2,1,"Ola");
+// console.log(arr);
+// arr.push("Amazon");
+// console.log(arr);
