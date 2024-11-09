@@ -46,9 +46,28 @@
 // console.dir(h2.innerText);
 // h2.innerText=h2.innerText + " apna college";
 
-let divs=document.querySelectorAll('.box');
-let idx=1;
-for(div of divs){
-    div.innerText=`new value ${idx}`;
-    idx++;
-}
+// let divs=document.querySelectorAll('.box');
+// let idx=1;
+// for(div of divs){
+//     div.innerText=`new value ${idx}`;
+//     idx++;
+// }
+
+// ab bari hai add new element kaise krenge 
+// let el=document.createElement('div');
+// let newButton=document.createElement('button');
+//  newButton.innerText="this is a button";
+// console.log(newButton);
+// let div=document.querySelector('div');
+// div.append(newButton);
+// div.prepend(newButton);
+
+// Node.append(el)
+// Node.prepend(el);
+// Node.before(el);
+// Node.after(el);
+// Node.remove(el);
+// appendChild() and removeChild()
+// classList 
+
+
